@@ -1,2 +1,2 @@
-module mygitpackage {
+module mygitproject {
 }
